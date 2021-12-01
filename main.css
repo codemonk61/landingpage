@@ -22,7 +22,7 @@ body {
 }
 
 .header{
-    background-image:url('images/1.png');
+    background-image:url('1.png');
     background-size: cover;
     background-position: center;
     position: relative;
